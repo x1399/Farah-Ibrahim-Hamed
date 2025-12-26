@@ -1,0 +1,49 @@
+body {
+     background-image: url(/IMG-20251226-WA0055\(1\).jpg);
+     background-repeat: repeat;
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     height: 100vh;
+     direction: rtl; 
+}
+ .cvbnm {
+    height: 1200px;
+    border: 2px solid #e60101;
+    background-image: url(/IMG-20251226-WA0056.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+}
+.tytf{ 
+    height: 550px;
+  background-color: #917d7d5e;
+        object-fit: cover;   
+        border: 3px solid #ffffff;
+         border-radius: 11px;
+}
+img{
+        border-radius: 27px;
+        object-fit: cover;   
+        border: 2px solid #000; 
+}
+h1{
+        font-family: inherit;
+        color: rgb(26, 8, 8);
+        font-weight: 500;
+}
+h2{
+        font-family: inherit;
+        color: rgb(3, 3, 3);
+        font-weight: 700;
+}
+h3{
+        font-family: inherit;
+        color: rgb(233, 8, 8);
+        font-weight: 700;
+}
+p{
+
+        font-family: inherit;
+        color: rgb(0, 0, 0);
+        font-weight: 700;
+}
